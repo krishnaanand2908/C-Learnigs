@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int prime_or_composite(int n);
+int prime_or_composite(int n); // prime for 0 and composite for 1
 
 int main(){
 
